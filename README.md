@@ -1,5 +1,7 @@
 # DBFoundations-Module07
 
+https://craysav.github.io/DBFoundations-Module07/
+
 # Module07 Website
 ---
 [Google Homepage](https://www.google.com "Google's Homepage")
